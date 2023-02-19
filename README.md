@@ -1,7 +1,7 @@
 # EnglishWord - изучение фразовых глаголов
 Это приложение поможет пользователям изучить фразовые глаголы английского языка.
 # Начало
-Скачать apk файл приложения можно по [ссылке](https://disk.yandex.ru/d/O8NsXdGd7s9ozg)
+Скачать apk файл приложения можно по [ссылке](https://disk.yandex.ru/d/O8NsXdGd7s9ozg).
 # Функции приложения
 Для удобной навигации в приложении реализован выбор исходного глагола и далее его вариаций фразовых глаголов.
 
@@ -17,16 +17,16 @@
 
 
 # Скрипты
-Скрипты, отвечающие за работу приложения, находятся в папке [Scripts](/EnglishWord/Assets/Scripts)
+Скрипты, отвечающие за работу приложения, находятся в папке [Scripts](/EnglishWord/Assets/Scripts).
 
-[scence](/EnglishWord/Assets/Scripts/scence.cs) отвечает за переключение между сценами путём нажатия на кнопку
+[scence](/EnglishWord/Assets/Scripts/scence.cs) отвечает за переключение между сценами путём нажатия на кнопку.
 
-[restart](/EnglishWord/Assets/Scripts/restart.cs) отвечает за перезагрузку сцены
+[restart](/EnglishWord/Assets/Scripts/restart.cs) отвечает за перезагрузку сцены.
 
 [Result1](/EnglishWord/Assets/Scripts/Result1.cs) сравнивает последний результат прохождения теста с наилучшим и передает наибольшее значение.
 
 [GameScript](/EnglishWord/Assets/Scripts/GameScript.cs) отвечает за создание теста. Данный скрипт создаёт уникальный порядок вопросов и ответов. Также отвечает за анимацию возникновения кнопок, подсчет правильных ответов.
 
-[ChooseObject](/EnglishWord/Assets/Scripts/ChooseObject.cs) заменяет используемую модель на модель, подходящую для выбранного глагола
+[ChooseObject](/EnglishWord/Assets/Scripts/ChooseObject.cs) заменяет используемую модель на модель, подходящую для выбранного глагола.
 
 [ProgrammManager](/EnglishWord/Assets/Scripts/ProgrammManager.cs) и [AddObject](/EnglishWord/Assets/Scripts/AddObject.cs) отвечают за считывания информации, полученной камерой телефона, создание плоскостей, на которые можно ставит модели, отображения маркера (красный круг), который показывает, куда будет поставлена модель. Также подсчет координат для выставления моделей и добавления самих объектов.
