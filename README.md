@@ -30,3 +30,6 @@
 [ChooseObject](/EnglishWord/Assets/Scripts/ChooseObject.cs) заменяет используемую модель на модель, подходящую для выбранного глагола.
 
 [ProgrammManager](/EnglishWord/Assets/Scripts/ProgrammManager.cs) и [AddObject](/EnglishWord/Assets/Scripts/AddObject.cs) отвечают за считывания информации, полученной камерой телефона, создание плоскостей, на которые можно ставит модели, отображения маркера (красный круг), который показывает, куда будет поставлена модель. Также подсчет координат для выставления моделей и добавления самих объектов.
+
+# 3D-модели
+3D-модели взяты из Unity Asset Store. Все использованные модели находятся в папке [Assets](/EnglishWord/Assets)
